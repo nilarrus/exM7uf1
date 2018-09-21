@@ -5,13 +5,13 @@ $i = 12;
 $tipus_de_i = gettype( $i );
   echo "La variable \$i conté el valor $i i és del tipus $tipus_de_i <br>";
 $i=1.2;
-$tipus_de_f = gettype( $i );
-  echo "La variable \$i conté el valor $i i és del tipus $tipus_de_f <br>";
+$tipus_de_i = gettype( $i );
+  echo "La variable \$i conté el valor $i i és del tipus $tipus_de_i <br>";
 $i = true;
-$tipus_de_b = gettype( $i );
-  echo "La variable \$i conté el valor $i i és del tipus $tipus_de_b <br>";
+$tipus_de_i = gettype( $i );
+  echo "La variable \$i conté el valor $i i és del tipus $tipus_de_i <br>";
 $i = "Hola";
-$tipus_de_s = gettype( $i );
-  echo "La variable \$i conté el valor $i i és del tipus $tipus_de_s <br>";
+$tipus_de_i = gettype( $i );
+  echo "La variable \$i conté el valor $i i és del tipus $tipus_de_i <br>";
 
  ?>
